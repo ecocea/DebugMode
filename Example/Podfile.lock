@@ -1,0 +1,19 @@
+PODS:
+  - DebugMode (0.1.0):
+    - FLEX
+  - FLEX (2.4.0)
+
+DEPENDENCIES:
+  - DebugMode (from `../`)
+
+EXTERNAL SOURCES:
+  DebugMode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DebugMode: 1843641aa1914e6fac2f13c3eb52c7a9d71f7a0a
+  FLEX: bd1a39e55b56bb413b6f1b34b3c10a0dc44ef079
+
+PODFILE CHECKSUM: 1830f0f966ab144f84e85fec0ca5430e8c5bf4c1
+
+COCOAPODS: 1.2.1
